@@ -1,4 +1,4 @@
-# Valentine Todo List 💕
+# TO-DO APP 
 A beautiful and user-friendly Todo List app built with React. This app allows you to manage your tasks efficiently with a touch of style.
 # Features
 - Add Tasks: Easily add new tasks to your list.
