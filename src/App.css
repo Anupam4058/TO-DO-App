@@ -1,9 +1,1 @@
 
-body {
-  background: url('/sticker1.png') no-repeat,
-              url('/sticker2.png') no-repeat,
-              url('/sticker3.png') no-repeat;
-  background-position: top left, center center, bottom right;
-  background-size: 100px 100px, 150px 150px, 120px 120px;
-  background-color: #ffe4e1; /* Light pink background color */
-}
