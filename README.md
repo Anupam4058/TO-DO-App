@@ -8,7 +8,7 @@ A beautiful and user-friendly Todo List app built with React. This app allows yo
 - Responsive Design: Fully responsive layout that works seamlessly on all devices.
 - Stylish Interface: A visually appealing design with feminine colors and animations.
 # Demo
-You can see a live demo of the app here. (Replace # with the actual link to your live demo if available.)
+You can see a live demo of the app here. (https://barbie-todo-app.netlify.app/)
 # Usage
 - Adding a Task: Type your task in the input field and click the "Add 💖" button.
 - Editing a Task: Click the pencil icon (✏️) next to the task to edit it. Click the save icon (💾) to save changes.
